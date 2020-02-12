@@ -26,18 +26,18 @@ public class CreateIndex {
      // 创建2个News对象
         News news1 = new News();
         news1.setId(1);
-        news1.setTitle("安倍晋三本周会晤特朗普 将强调日本对美国益处");
+        news1.setTitle("安倍晋三本周会晤特朗普农村 将强调日本对美国益处");
         news1.setContent("日本首相安倍晋三计划2月10日在华盛顿与美国总统特朗普举行会晤时提出加大日本在美国投资的设想");
         news1.setReply(672);
         News news2 = new News();
         news2.setId(2);
         news2.setTitle("北大迎4380名新生 农村学生700多人近年最多");
-        news2.setContent("昨天，北京大学迎来4380名来自全国各地及数十个国家的本科新生。其中，农村学生共700余名，为近年最多...");
+        news2.setContent("昨天，特朗普北京大学迎来4380名来自全国各地及数十个国家的本科新生。其中，农村学生共700余名，为近年最多...");
         news2.setReply(995);
 
         News news3 = new News();
         news3.setId(3);
-        news3.setTitle("特朗普宣誓(Donald Trump)就任美国第45任总统");
+        news3.setTitle("死货宣誓(Donald Trump)就任学生美国第45任总统");
         news3.setContent("当地时间1月20日，唐纳德·特朗普在美国国会宣誓就职，正式成为美国第45任总统。");
         news3.setReply(1872);
         
